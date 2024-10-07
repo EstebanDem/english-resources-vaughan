@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"os"
 )
 
 const (
-	port = 8085
 	// Paths
 	toDoExpressionsPath      = "/to-do"
 	mostImportantVerbsPath   = "/most-important-verbs"
@@ -98,6 +98,11 @@ func main() {
 		sections.RenderWithData(w, "verb-tenses.page.gohtml", dataVerbTenses)
 	})
 
+	port := os.Getenv("PORT")
+
+	if port == "" {
+		port = "8080"
+	}
 	log.Printf("Starting app at port %d", port)
 	fs := http.FileServer(http.Dir("./internal/assets"))
 	http.Handle("/static/", http.StripPrefix("/static/", fs))
