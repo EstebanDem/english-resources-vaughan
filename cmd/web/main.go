@@ -106,7 +106,7 @@ func main() {
 	log.Printf("Starting app at port %d", port)
 	fs := http.FileServer(http.Dir("./internal/assets"))
 	http.Handle("/static/", http.StripPrefix("/static/", fs))
-	err := http.ListenAndServe(fmt.Sprintf(":%d", port), nil)
+	err := http.ListenAndServe(fmt.Sprintf(":%s", port), nil)
 	if err != nil {
 		log.Panic(err)
 	}
