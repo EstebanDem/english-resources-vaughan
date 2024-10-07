@@ -1,0 +1,67 @@
+{
+  "title": "Los 35 pronombres",
+  "description": "-",
+  "data": [
+    {
+      "type": "Pronombres personales",
+      "values": [
+        "I",
+        "you",
+        "he",
+        "she",
+        "it",
+        "we",
+        "you",
+        "they"
+      ]
+    },
+    {
+      "type": "Pronombres complemento",
+      "values": [
+        "me",
+        "you",
+        "him",
+        "her",
+        "it",
+        "us",
+        "you",
+        "them"
+      ]
+    },
+    {
+      "type": "Adjetivos posesivos",
+      "values": [
+        "my",
+        "your",
+        "his",
+        "her",
+        "its",
+        "our",
+        "your",
+        "their"
+      ]
+    },
+    {
+      "type": "Pronombres posesivos",
+      "values": [
+        "mine",
+        "yours",
+        "his",
+        "hers",
+        "-",
+        "ours",
+        "yours",
+        "theirs"
+      ]
+    },
+    {
+      "type": "Pronombres demostrativos",
+      "values": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ]
+    }
+  ]
+}

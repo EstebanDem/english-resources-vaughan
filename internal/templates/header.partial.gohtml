@@ -1,0 +1,25 @@
+{{define "header"}}
+
+    <header class="bg-[#e3e0d7] p-4 flex justify-between items-center flex-wrap border-b-4 border-black">
+        <!-- Envolvemos el logo, el icono y el slogan en un enlace -->
+        <a href="/" class="text-2xl md:text-3xl font-bold text-black flex items-center">
+            <!-- Agregamos el icono del gopher -->
+            <img src="/static/logo.png" alt="Go learning English" style="width: 100px; height: auto;" class="mr-2">
+            <div>
+                English for Spanish Speakers
+                <div class="text-sm md:text-base font-normal text-gray-700 mt-1" style="font-family: 'Patrick Hand', cursive;">
+                    Recursos recomendados por Richard Vaughan en <i>Si quieres, puedes</i>
+                </div>
+            </div>
+        </a>
+
+        <nav>
+            <ul class="flex flex-wrap space-x-2 md:space-x-4 text-sm md:text-lg font-bold uppercase mt-2 md:mt-0">
+                <li><a href="/" class="hover:underline">Home</a></li>
+                <li><a href="#" class="hover:underline">Contribuye</a></li>
+                <li><a href="https://grupovaughan.com/vaughan-tienda/ocio-y-lectura/356-si-quieres-puedes" class="hover:underline">Libro</a></li>
+            </ul>
+        </nav>
+    </header>
+
+{{end}}

@@ -1,0 +1,35 @@
+{{define "base" }}
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Inglés para hablantes de español - Recursos Recomendados</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+        <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
+        <style>
+            html {
+                color-scheme: dark;
+            }
+            body {
+                /*font-family: 'Inter', sans-serif;*/
+                font-family: 'Patrick Hand', cursive;
+            }
+        </style>
+    </head>
+    {{template "header" .}}
+
+    <body class="bg-[#f3f1e7] text-black min-h-screen flex flex-col">
+    <main class="flex-1 p-4 md:p-6">
+
+
+    {{block "content" .}} {{ end }}
+    </main>
+    {{block "js" .}} {{ end }}
+
+    {{template "footer" .}}
+
+    </body>
+    </html>
+{{end}}

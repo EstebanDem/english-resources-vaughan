@@ -1,0 +1,252 @@
+{
+  "title": "Expresiones con to do",
+  "description": [
+    "Tape con un papel el recuadro en inglés y traduzca, en el mismo papel, cada frase en español del primer recuadro, sin levantar el papel para mirar.",
+    "Al finalizar una columna, verifique los aciertos y corrija los errores. Después haga lo mismo con las tres columnas siguientes, llegando al final a una cuenta numérica global de aciertos y errores.",
+    "Repita la operación las veces que sean necesarias para reducir el número de errores a cero.",
+    "Vuelva a repetir los puntos 1, 2 y 3 pero oralmente.",
+    "Por último, una vez crea tener cierto dominio oral de las frases en inglés, deje de traducirlas oralmente y póngase simplemente a leerlas en voz alta una detrás de otra y muchas veces para adquirir agilidad. De hecho, le recomiendo que se encierre en una habitación de su casa con el fin de no sólo leerlas, sino declamarlas, como si mil personas le estuvieran escuchando. Es sorprendente lo eficaz que es gritar en inglés o, como yo digo, declamar."
+  ],
+  "data": [
+    {
+      "phrase_esp": "Lo hago a menudo",
+      "phrase_eng": "I do it often"
+    },
+    {
+      "phrase_esp": "¿Cuándo lo hizo ella?",
+      "phrase_eng": "When did she do it?"
+    },
+    {
+      "phrase_esp": "Él no lo hace a menudo",
+      "phrase_eng": "He doesn't do it often"
+    },
+    {
+      "phrase_esp": "¿Por qué no se ha hecho todavía?",
+      "phrase_eng": "Why hasn't it been done yet?"
+    },
+    {
+      "phrase_esp": "Lo hice ayer",
+      "phrase_eng": "I did it yesterday"
+    },
+    {
+      "phrase_esp": "¿Por qué lo hicieron?",
+      "phrase_eng": "Why did they do it?"
+    },
+    {
+      "phrase_esp": "Él no lo ha hecho últimamente",
+      "phrase_eng": "He hasn't done it lately"
+    },
+    {
+      "phrase_esp": "¿Cuándo se hará?",
+      "phrase_eng": "When will it be done?"
+    },
+    {
+      "phrase_esp": "Lo he hecho dos veces esta semana",
+      "phrase_eng": "I've done it twice this week"
+    },
+    {
+      "phrase_esp": "¿Por qué no lo hiciste tú también?",
+      "phrase_eng": "Why didn't you do it too?"
+    },
+    {
+      "phrase_esp": "Él no lo hará mañana",
+      "phrase_eng": "He won't do it tomorrow"
+    },
+    {
+      "phrase_esp": "No lo hagas, por favor",
+      "phrase_eng": "Don't do it please"
+    },
+    {
+      "phrase_esp": "Lo haré mañana",
+      "phrase_eng": "I'll do it tomorrow"
+    },
+    {
+      "phrase_esp": "¿Por qué no lo han hecho todavía?",
+      "phrase_eng": "Why haven't they done it yet"
+    },
+    {
+      "phrase_esp": "Él no lo va a hacer",
+      "phrase_eng": "He's not going to do it"
+    },
+    {
+      "phrase_esp": "¿Quién lo está haciendo ahora?",
+      "phrase_eng": "Who's doing it now?"
+    },
+    {
+      "phrase_esp": "¿Quién lo hace?",
+      "phrase_eng": "Who's doing it?"
+    },
+    {
+      "phrase_esp": "¿Por qué no lo ha hecho él todavía?",
+      "phrase_eng": "Why hasn't he done it yet?"
+    },
+    {
+      "phrase_esp": "Él lo haría si pudiera",
+      "phrase_eng": "He would do it if he could"
+    },
+    {
+      "phrase_esp": "¿Quién lo hizo ayer?",
+      "phrase_eng": "Who did it yesterday?"
+    },
+    {
+      "phrase_esp": "¿Lo haces tú?",
+      "phrase_eng": "Do you do it?"
+    },
+    {
+      "phrase_esp": "¿Cuándo vas a hacerlo?",
+      "phrase_eng": "When are you going to do it?"
+    },
+    {
+      "phrase_esp": "Él no lo haría por dinero",
+      "phrase_eng": "He wouldn't do it for money"
+    },
+    {
+      "phrase_esp": "¿Quién suele hacerlo?",
+      "phrase_eng": "Who usually does it?"
+    },
+    {
+      "phrase_esp": "¿Lo hace él?",
+      "phrase_eng": "Does he do it?"
+    },
+    {
+      "phrase_esp": "¿Cómo vas a hacerlo?",
+      "phrase_eng": "How are you going to do it?"
+    },
+    {
+      "phrase_esp": "No lo hago como ella lo hace",
+      "phrase_eng": "I don't do it like she does it"
+    },
+    {
+      "phrase_esp": "¿Por qué lo hace él?",
+      "phrase_eng": "Whe does he do it?"
+    },
+    {
+      "phrase_esp": "¿Lo hacen ellos?",
+      "phrase_eng": "Do they do it?"
+    },
+    {
+      "phrase_esp": "¿Cómo voy a hacerlo?",
+      "phrase_eng": "How am I going to do it?"
+    },
+    {
+      "phrase_esp": "Él no lo hace como yo lo hago",
+      "phrase_eng": "He doesn't do it like I do it"
+    },
+    {
+      "phrase_esp": "¿Qué tal estás?",
+      "phrase_eng": "How are you going?"
+    },
+    {
+      "phrase_esp": "¿Por qué lo hace ella?",
+      "phrase_eng": "Why does she do it?"
+    },
+    {
+      "phrase_esp": "¿Cuándo voy a hacerlo?",
+      "phrase_eng": "When am I going to do it?"
+    },
+    {
+      "phrase_esp": "¿Cómo está usted?",
+      "phrase_eng": "How do you do?"
+    },
+    {
+      "phrase_esp": "¿Qué estás haciendo?",
+      "phrase_eng": "What are you doing?"
+    },
+    {
+      "phrase_esp": "¿Por qué lo haces tú?",
+      "phrase_eng": "Why do you do it?"
+    },
+    {
+      "phrase_esp": "¿Quién lo va a hacer?",
+      "phrase_eng": "Who's going to do it?"
+    },
+    {
+      "phrase_esp": "¿Qué haces los domingos?",
+      "phrase_eng": "What do you do on Sundays?"
+    },
+    {
+      "phrase_esp": "Estoy bien, gracias",
+      "phrase_eng": "I'm doing fine, thank you"
+    },
+    {
+      "phrase_esp": "¿Cuándo lo hacen?",
+      "phrase_eng": "When do they do it?"
+    },
+    {
+      "phrase_esp": "¿Quién lo hizo anoche?",
+      "phrase_eng": "Who did it last night?"
+    },
+    {
+      "phrase_esp": "¿Qué hace ella para ganarse la vida?",
+      "phrase_eng": "What does she do for a living?"
+    },
+    {
+      "phrase_esp": "No estoy haciendo nada",
+      "phrase_eng": "I'm doing nothing"
+    },
+    {
+      "phrase_esp": "¿Cómo lo hace él?",
+      "phrase_eng": "How does he do it?"
+    },
+    {
+      "phrase_esp": "¿Quién lo hizo anoche?",
+      "phrase_eng": "Who did it last night?"
+    },
+    {
+      "phrase_esp": "Ya se ha hecho",
+      "phrase_eng": "It's been done"
+    },
+    {
+      "phrase_esp": "Hiciste lo correcto",
+      "phrase_eng": "You did the right thing"
+    },
+    {
+      "phrase_esp": "¿Cómo lo hacen ellos?",
+      "phrase_eng": "How do they do it?"
+    },
+    {
+      "phrase_esp": "¿Quién lo ha hecho últimamente?",
+      "phrase_eng": "Who's done it lately?"
+    },
+    {
+      "phrase_esp": "No se ha hecho",
+      "phrase_eng": "It hasn't been done"
+    },
+    {
+      "phrase_esp": "¿Qué puedo hacer por ti?",
+      "phrase_eng": "What can I do for you?"
+    },
+    {
+      "phrase_esp": "¿Cuándo lo harás?",
+      "phrase_eng": "When will you do it?"
+    },
+    {
+      "phrase_esp": "Hazlo, por favor",
+      "phrase_eng": "Do it please"
+    },
+    {
+      "phrase_esp": "¿Cuándo se hizo?",
+      "phrase_eng": "When was it done?"
+    },
+    {
+      "phrase_esp": "¿Qué hace tu hermana?",
+      "phrase_eng": "What does your sister do?"
+    },
+    {
+      "phrase_esp": "¿Con qué frecuencia lo has hecho?",
+      "phrase_eng": "How often have you done it?"
+    },
+    {
+      "phrase_esp": "No se ha hecho todavía",
+      "phrase_eng": "It hasn't been done yet"
+    },
+    {
+      "phrase_esp": "¿Por qué no se hizo?",
+      "phrase_eng": "Why wasn't it done?"
+    },
+    {
+      "phrase_esp": "Haz lo que él hace",
+      "phrase_eng": "Do what he does"
+    }
+  ]
+}

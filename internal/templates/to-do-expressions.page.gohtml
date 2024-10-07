@@ -1,0 +1,46 @@
+{{ define "content" }}
+    <section class="bg-[#e3f6d8] border-black border-4 p-4 md:p-6 mb-6 md:mb-8">
+        <h2 class="text-2xl md:text-3xl font-bold text-black mb-1 text-center">{{ .Title }}</h2>
+
+        <ol class="list-decimal text-lg text-black mb-4 mx-auto ml-4" style="text-align: left; width: fit-content;">
+            {{ range .Description }}
+                <li>{{ . }}</li>
+            {{ end }}
+        </ol>
+
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-4 md:gap-6">
+            {{ range .Data }}
+                <div class="flex items-center border-black border-4 p-4 bg-[#f3f1e7] h-full cursor-pointer"
+                     onclick="togglePhrase(this)"
+                     data-phrase-eng="{{ .PhraseEnglish }}"
+                     data-phrase-spa="{{ .PhraseSpanish }}">
+
+                    <span class="flag" data-lang="spa">🇪🇸</span>
+                    <span class="flag hidden" data-lang="eng">🇺🇸</span>
+
+                    <p class="text-sm md:text-base ml-2">{{ .PhraseSpanish }}</p>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <script>
+        function togglePhrase(element) {
+            const englishPhrase = element.getAttribute('data-phrase-eng');
+            const spanishPhrase = element.getAttribute('data-phrase-spa');
+            const paragraph = element.querySelector('p');
+            const spanishFlag = element.querySelector('span[data-lang="spa"]');
+            const englishFlag = element.querySelector('span[data-lang="eng"]');
+
+            if (paragraph.textContent === spanishPhrase) {
+                paragraph.textContent = englishPhrase;
+                spanishFlag.classList.add('hidden');
+                englishFlag.classList.remove('hidden');
+            } else {
+                paragraph.textContent = spanishPhrase;
+                spanishFlag.classList.remove('hidden');
+                englishFlag.classList.add('hidden');
+            }
+        }
+    </script>
+{{ end }}

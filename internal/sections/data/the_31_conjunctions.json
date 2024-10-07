@@ -1,0 +1,67 @@
+{
+  "title": "Las 31 conjunciones",
+  "description": "-",
+  "data": [
+    {
+      "type": "Conjunciones coordinativas",
+      "values": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ]
+    },
+    {
+      "type": "Conjunciones correlativas",
+      "values": [
+        "both... and",
+        "either... or",
+        "neither... nor",
+        "not only... but also"
+      ]
+    },
+    {
+      "type": "Conjunciones de tiempo",
+      "values": [
+        "after",
+        "before",
+        "when",
+        "while",
+        "since",
+        "until"
+      ]
+    },
+    {
+      "type": "Conjunciones de causa-efecto",
+      "values": [
+        "because",
+        "since",
+        "now that",
+        "as",
+        "in order that",
+        "so"
+      ]
+    },
+    {
+      "type": "Conjunciones de oposición",
+      "values": [
+        "altough",
+        "though",
+        "even though",
+        "whereas",
+        "while"
+      ]
+    },
+    {
+      "type": "Conjunciones de condición",
+      "values": [
+        "if",
+        "unless",
+        "only if",
+        "whether or not",
+        "if",
+        "in case (that)"
+      ]
+    }
+  ]
+}

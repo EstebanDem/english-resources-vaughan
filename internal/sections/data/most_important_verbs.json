@@ -1,0 +1,42 @@
+{
+  "title": "Verbos más importantes",
+  "description": "Si usted consigue saberlos conjugar (sin preocuparse de momento de las preposiciones), habrá cubierto, junto con el verbo to be, el 60% de toda aparición de verbo en el lenguaje común hablado.",
+  "data": [
+    {
+      "value": "to go"
+    },
+    {
+      "value": "to have"
+    },
+    {
+      "value": "to want"
+    },
+    {
+      "value": "to do"
+    },
+    {
+      "value": "to get"
+    },
+    {
+      "value": "to know"
+    },
+    {
+      "value": "to give"
+    },
+    {
+      "value": "to make"
+    },
+    {
+      "value": "to think"
+    },
+    {
+      "value": "to come"
+    },
+    {
+      "value": "to like"
+    },
+    {
+      "value": "to need"
+    }
+  ]
+}

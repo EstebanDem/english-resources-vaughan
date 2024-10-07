@@ -1,0 +1,232 @@
+{
+  "title": "Los tiempos verbales",
+  "description": "-",
+  "data": [
+    {
+      "type": "Voz activa",
+      "values": [
+        [
+          {
+            "tense": "1. Presente continuo",
+            "example": "I’m taking him to the airport."
+          },
+          {
+            "tense": "2. Presente habitual",
+            "example": "I take him to the airport often."
+          },
+          {
+            "tense": "3. Futuro simple",
+            "example": "I’ll take him to the airport tomorrow."
+          },
+          {
+            "tense": "4. Futuro de intención",
+            "example": "I’m going to take him to the airport tomorrow."
+          },
+          {
+            "tense": "5. Futuro seguro",
+            "example": "I’m taking him to the airport tomorrow."
+          },
+          {
+            "tense": "6. Pasado continuo",
+            "example": "I was taking him to the airport when I heard the explosion."
+          },
+          {
+            "tense": "7. Pasado simple",
+            "example": "I took him to the airport yesterday."
+          },
+          {
+            "tense": "8. Presente perfecto",
+            "example": "I’ve taken him to the airport three times this year."
+          },
+          {
+            "tense": "9. Presente perfecto continuo",
+            "example": "I’ve been taking him to the airport every day for the past three years."
+          },
+          {
+            "tense": "10. Condicional futuro",
+            "example": "I’ll take him to the airport if I have time."
+          },
+          {
+            "tense": "11. Condicional presente",
+            "example": "I would take him to the airport if I had time."
+          },
+          {
+            "tense": "12. Condicional pasado",
+            "example": "I would’ve taken him to the airport if I had had the time."
+          },
+          {
+            "tense": "13. Verbo «poder» en presente",
+            "example": "I can take him to the airport."
+          },
+          {
+            "tense": "14. Verbo «poder» en pasado",
+            "example": "I was able to take him to the airport."
+          },
+          {
+            "tense": "15. Verbo «poder» en futuro",
+            "example": "I’ll be able to take him to the airport."
+          },
+          {
+            "tense": "16. Primer condicional «poder»",
+            "example": "I would be able to take him to the airport."
+          },
+          {
+            "tense": "17. Segundo condicional «poder»",
+            "example": "I could take him to the airport."
+          },
+          {
+            "tense": "18. Primer condicional pasado «poder»",
+            "example": "I would’ve been able to take him to the airport."
+          },
+          {
+            "tense": "19. Segundo condicional pasado «poder»",
+            "example": "I could’ve taken him to the airport."
+          },
+          {
+            "tense": "20. Obligación externa presente",
+            "example": "I have to take him to the airport."
+          },
+          {
+            "tense": "21. Obligación externa futura",
+            "example": "I’ll have to take him to the airport."
+          },
+          {
+            "tense": "22. Obligación externa pasada",
+            "example": "I had to take him to the airport."
+          },
+          {
+            "tense": "23. Obligación hasta ahora",
+            "example": "I’ve had to take him to the airport."
+          },
+          {
+            "tense": "24. Imperativo personal",
+            "example": "I must take him to the airport."
+          },
+          {
+            "tense": "25. Auto-recomendación",
+            "example": "I should take him to the airport."
+          },
+          {
+            "tense": "26. Auto-recomendación pasado",
+            "example": "I should’ve taken him to the airport."
+          },
+          {
+            "tense": "27. Seria auto-advertencia",
+            "example": "I had better take him to the airport!"
+          },
+          {
+            "tense": "28. Posibilidad 1",
+            "example": "I may take him to the airport."
+          },
+          {
+            "tense": "29. Posibilidad 2",
+            "example": "I might take him to the airport."
+          },
+          {
+            "tense": "30. Posibilidad pasada 1",
+            "example": "I may have taken him to the airport but I don’t remember."
+          },
+          {
+            "tense": "31. Posibilidad pasada 2",
+            "example": "I might have taken him to the airport but I don’t remember."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "Voz pasivo",
+      "values": [
+        [
+          {
+            "tense": "32. Presente continuo pasiva",
+            "example": "He’s being taken to the airport right now."
+          },
+          {
+            "tense": "33. Presente habitual pasiva",
+            "example": "He’s taken to the airport often."
+          },
+          {
+            "tense": "34. Futuro simple pasiva",
+            "example": "He’ll be taken to the airport tomorrow."
+          },
+          {
+            "tense": "35. Futuro intencional pasiva",
+            "example": "He’s going to be taken to the airport tomorrow."
+          },
+          {
+            "tense": "36. Pasado continuo pasiva",
+            "example": "He was being taken to the airport when the explosion was heard."
+          },
+          {
+            "tense": "37. Pasado simple pasiva",
+            "example": "He was taken to the airport yesterday."
+          },
+          {
+            "tense": "38. Presente perfecto pasiva",
+            "example": "He’s been taken to the airport three times so far this week."
+          },
+          {
+            "tense": "39. Presente condicional pasiva",
+            "example": "He would be taken to the airport if there were a chauffeur."
+          },
+          {
+            "tense": "40. Pasado condicional pasiva",
+            "example": "He would’ve been taken to the airport if there had been a chauffeur."
+          },
+          {
+            "tense": "41. «Poder» presente pasiva",
+            "example": "He can be taken to the airport."
+          },
+          {
+            "tense": "42. «Poder» condicional pasiva",
+            "example": "He could be taken to the airport."
+          },
+          {
+            "tense": "43. «Poder» condicional pasado pasiva",
+            "example": "He could’ve been taken to the airport."
+          },
+          {
+            "tense": "44. Recomendación pasiva",
+            "example": "He should be taken to the airport."
+          },
+          {
+            "tense": "45. Recomendación pasada pasiva",
+            "example": "He should’ve been taken to the airport."
+          },
+          {
+            "tense": "46. Obligación externa pasiva",
+            "example": "He has to be taken to the airport."
+          },
+          {
+            "tense": "47. Obligación personal pasiva",
+            "example": "He must be taken to the airport."
+          },
+          {
+            "tense": "48. Conclusión lógica pasada pasiva",
+            "example": "He must’ve been taken to the airport."
+          },
+          {
+            "tense": "49. Posibilidad 1 pasiva",
+            "example": "He may be taken to the airport."
+          },
+          {
+            "tense": "50. Posibilidad 2 pasiva",
+            "example": "He might be taken to the airport."
+          },
+          {
+            "tense": "51. Posibilidad pasada 1 pasiva",
+            "example": "He may have been taken to the airport."
+          },
+          {
+            "tense": "52. Posibilidad pasada 2 pasiva",
+            "example": "He might have been taken to the airport."
+          },
+          {
+            "tense": "53. Seria advertencia pasiva",
+            "example": "He had better be taken to the airport."
+          }
+        ]
+      ]
+    }
+  ]
+}
